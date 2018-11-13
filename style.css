@@ -1,0 +1,17 @@
+/* Stylesheet for Google page odin project*/
+
+.navbartl {
+    float:left;
+}
+
+.navbartr {
+    float:right;
+}
+
+.navbarbl {
+    float:left;
+}
+
+.navbarbr {
+    float:right;
+}
